@@ -1,2 +1,3 @@
-# presidential-os
-Custom Fedora-based controller-first OS
+# Presidential OS
+
+Custom Fedora-based OS with a controller-first UI.
